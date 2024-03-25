@@ -1,0 +1,13 @@
+..\obj\system_delay.o: ..\SYSTEM\delay\system_delay.c
+..\obj\system_delay.o: ..\SYSTEM\delay\system_delay.h
+..\obj\system_delay.o: ..\USER\stm32f10x.h
+..\obj\system_delay.o: ..\CORE\core_cm3.h
+..\obj\system_delay.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\system_delay.o: ..\USER\system_stm32f10x.h
+..\obj\system_delay.o: ..\USER\stm32f10x_conf.h
+..\obj\system_delay.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\system_delay.o: ..\USER\stm32f10x.h
+..\obj\system_delay.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\system_delay.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\system_delay.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\system_delay.o: ..\STM32F10x_FWLib\inc\misc.h

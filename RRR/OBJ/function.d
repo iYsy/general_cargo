@@ -1,0 +1,17 @@
+..\obj\function.o: ..\HARDWARE\function.c
+..\obj\function.o: ..\HARDWARE\function.h
+..\obj\function.o: ..\HARDWARE\config.h
+..\obj\function.o: ..\HARDWARE\agreement.h
+..\obj\function.o: ..\USER\stm32f10x.h
+..\obj\function.o: ..\CORE\core_cm3.h
+..\obj\function.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\function.o: ..\USER\system_stm32f10x.h
+..\obj\function.o: ..\USER\stm32f10x_conf.h
+..\obj\function.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\function.o: ..\USER\stm32f10x.h
+..\obj\function.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\function.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\function.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\function.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\function.o: ..\SYSTEM\delay\system_option.h
+..\obj\function.o: ..\SYSTEM\delay\system_delay.h
